@@ -43,3 +43,20 @@ pnpm build
 ```bash
 pnpm publish -r
 ```
+
+## version
+### add version
+```bash
+pnpm changeset add
+pnpm changeset version
+```
+### prerelease
+```bash
+pnpm changeset pre enter alpha
+
+pnpm changeset add
+pnpm changeset version
+
+# Only when you want to release normal version
+pnpm changeset pre exit
+```

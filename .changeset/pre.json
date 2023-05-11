@@ -1,0 +1,10 @@
+{
+  "mode": "pre",
+  "tag": "alpha",
+  "initialVersions": {
+    "t-cup_boilerplate": "1.0.0"
+  },
+  "changesets": [
+    "nervous-ligers-think"
+  ]
+}

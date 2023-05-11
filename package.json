@@ -3,7 +3,7 @@
   "version": "1.0.1-alpha.0",
   "description": "A node module boilerplate that is based on pnpm, changesets, and unbuild.",
   "packageManager": "pnpm@8.5.0",
-  "author": "zhangyatao@baidu.com",
+  "author": "YataoZhang <xiaodezhang@foxmail.com>",
   "engines": {
     "node": "^14.18.0 || >=16.0.0"
   },

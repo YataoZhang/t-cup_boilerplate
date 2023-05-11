@@ -1,0 +1,19 @@
+{
+    "include": ["src"],
+    "exclude": [],
+    "compilerOptions": {
+        "outDir": "dist",
+        "target": "ES2020",
+        "module": "ES2020",
+        "lib": ["DOM", "DOM.Iterable", "ESNext"],
+        "moduleResolution": "node",
+        "types": ["jest"],
+        "strict": true,
+        "declaration": true,
+        "sourceMap": true,
+        "noImplicitOverride": true,
+        "noUnusedLocals": true,
+        "esModuleInterop": true,
+        "baseUrl": "."
+    }
+}

@@ -9,4 +9,4 @@ export default defineBuildConfig({
         emitCJS: true,
         inlineDependencies: true,
     },
-})
+});
